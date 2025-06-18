@@ -9,11 +9,11 @@ working as a freelancer on Fiverr
 maazmasroorhuss@gmail.com
 
 Check out my portfolio:
-https://maazleo.github.io/Portfoliomaaz.github.io/
+https://maazportfoliosite.netlify.app/
 
 OR
 
-https://maazmasroor-portfolio.netlify.app/
+[https://maazmasroor-portfolio.netlify.app/](https://maazportfoliosite.netlify.app/)
 
 ⚡ Fun fact Code for Android but want a MacBook
 
