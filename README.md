@@ -1,4 +1,4 @@
-           Hi 👋, I'm Maaz Masroor
+           Hi 👋, I'm Maaz Hussain
 
 Mobile Application Developer in Flutter and React Native, React.Js Web App dev
 working as a freelancer on Fiverr
@@ -7,6 +7,7 @@ working as a freelancer on Fiverr
 
 📫 How to reach me :
 maazmasroorhuss@gmail.com
+03055248609
 
 Check out my portfolio:
 https://maazportfoliosite.netlify.app/
