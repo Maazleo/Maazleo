@@ -1,9 +1,9 @@
            Hi 👋, I'm Maaz Masroor
 
-Mobile Application Developer in Flutter and React Native
+Mobile Application Developer in Flutter and React Native, React.Js Web App dev
 working as a freelancer on Fiverr
 
-💬 Ask me about Flutter, React-Native, Python, C++, Data Structures and Algorithms, Object Oriented Programming, Problem Solving and web langs.
+💬 Ask me about Flutter, React.Js, React-Native, JavaScript, HTML, CSS, Python, C++, Data Structures and Algorithms, Object Oriented Programming, Problem Solving and web langs.
 
 📫 How to reach me :
 maazmasroorhuss@gmail.com
@@ -26,6 +26,6 @@ Facebook :
 https://www.facebook.com/maazhun
 
 Languages and Tools:
-Flutter, Dart, Git, React-Native, Node.js android Firebase Postman
+Flutter, Dart, Git, React-Native, React.js, JavaScript, HTML, CSS, AndroidStudio, Cursor AI, Github, Selenium.
 
 cplusplus kotlin python SQLite MySQL Git
